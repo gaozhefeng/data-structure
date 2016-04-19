@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #coding=utf-8
 
-# This is the implementation of the Bag data structure
+# This is the implementation of the BST data structure
 # You can find more information from the book:"Algorithms"
 # author: gaozhefeng at XIDIAN UNIVERSITY
 class Node:
